@@ -15,3 +15,12 @@ Setiap pembayaran juga disalin ke arsip permanen (`localStorage` kunci `sipk_ars
 Arsip TIDAK terhapus saat `SIPK.db.reset()` atau `versi` data dinaikkan: transaksi nyata otomatis digabung kembali, stok dan buku kas ikut disesuaikan.
 Admin/pemilik/operator punya alat: Periksa data (cek total, kembalian, stok, dan bandingkan dengan arsip), Unduh cadangan (JSON), Pulihkan dari berkas.
 Menghapus arsip (tidak disarankan): jalankan `localStorage.removeItem("sipk_arsip_v1")` di konsol.
+
+
+Kelompok: 6
+Judul Sistem: Sistem Informasi Penjualan dan Kasir
+Nama Anggota:
+1. Muhammad Rofi' Ihsan (60225018)
+2. Magalis Mifta Khuddin Firmansyah (60225042)
+3. Faka Auliansyah Maulana Ro'ad (60225048)
+4. Nadya Paramesti Amirasyifa (60225070)
