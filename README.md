@@ -1,4 +1,4 @@
-# MyStore, Frontend SIPK (HTML + CSS + JavaScript)
+# MyStore, Frontend Sistem Informasi Penjualan dan Kasir
 Buka `index.html` di browser (tanpa server).
 Data uji: ubah `js/data.js` (akun, barang, kategori, transaksi contoh, daftar skenario uji), simpan, lalu F5.
 Setiap mengubah data.js, naikkan angka `versi` (sekarang 3) di data.js agar data lama di browser diganti.
