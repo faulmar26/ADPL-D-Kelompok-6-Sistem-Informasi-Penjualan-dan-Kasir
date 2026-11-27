@@ -20,7 +20,7 @@ Menghapus arsip (tidak disarankan): jalankan `localStorage.removeItem("sipk_arsi
 Kelompok: 6
 Judul Sistem: Sistem Informasi Penjualan dan Kasir
 Nama Anggota:
-1. Muhammad Rofi' Ihsan (60225018)
-2. Magalis Mifta Khuddin Firmansyah (60225042)
-3. Faka Auliansyah Maulana Ro'ad (60225048)
-4. Nadya Paramesti Amirasyifa (60225070)
+1. 60225018 - Muhammad Rofi' Ihsan (FR-04)
+2. 60225042 - Magalis Mifta Khuddin Firmansyah (FR-03)
+3. 60225048 - Faka Auliansyah Maulana Ro'ad (FR-01)
+4. 60225070 - Nadya Paramesti Amirasyifa (FR-02)
