@@ -1,14 +1,5 @@
 # MyStore, Frontend SIPK (HTML + CSS + JavaScript)
-Buka `index.html` di browser (tanpa server). Data tersimpan di localStorage browser.
-
-| Peran | Username | Password |
-|---|---|---|
-| Admin | admin | admin123 |
-| Kasir | kasir | kasir123 |
-| Pemilik | pemilik | pemilik123 |
-| Operator | operator | operator123 |
-(`nonaktif / nonaktif123` untuk mencoba akun nonaktif)
-
+Buka `index.html` di browser (tanpa server).
 Data uji: ubah `js/data.js` (akun, barang, kategori, transaksi contoh, daftar skenario uji), simpan, lalu F5.
 Setiap mengubah data.js, naikkan angka `versi` (sekarang 3) di data.js agar data lama di browser diganti.
 Tombol Login cepat di halaman login langsung masuk memakai akun demo dari data.js.
